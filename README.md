@@ -22,6 +22,8 @@ The project structure is organized as follows:
 - `css/`: Directory containing CSS files for styling.
   - `styles.css`: Custom CSS styles for the website.
 - `images/`: Directory to store images used in the project.
+- `Logo SVGs.md`:SVGs for the Apple and Playstore logos.
+- An attached png screenshot file of full page.
 ## Usage
 
 To use this project, follow these steps:
