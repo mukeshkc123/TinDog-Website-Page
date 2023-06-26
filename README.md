@@ -1,7 +1,7 @@
 # TinDog Website Page
 
 Welcome to the README file for the TinDog Website Page project! This frontend project focuses on utilizing HTML, CSS, and Bootstrap to create an appealing and visually stunning website. The main objective of this project is to explore the various Bootstrap components and customize snippets to enhance the overall look of the website.
-visit the websitepage:https://mukeshkc123.github.io/TinDog-Website-Page/
+visit the website page:https://mukeshkc123.github.io/TinDog-Website-Page/
 
 ## Project Overview
 
